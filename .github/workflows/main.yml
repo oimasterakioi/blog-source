@@ -19,5 +19,5 @@ jobs:
         env:
           PERSONAL_TOKEN: ${{ secrets.deploy }}
           PUBLISH_REPOSITORY: oimasterakioi/blog
-          BRANCH: master
-          PUBLISH_DIR: ./
+          BRANCH: gh-pages
+          PUBLISH_DIR: ./public/

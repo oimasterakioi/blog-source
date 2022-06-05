@@ -8,9 +8,6 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Delete
-        run: rm -rf /github/workspace/.git/
-    
       - name: Checkout
         uses: actions/checkout@master
 

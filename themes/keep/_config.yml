@@ -159,8 +159,8 @@ local_search:
 # Comment plugin
 # ---------------------------------------------------------------------------------------
 comment:
-  enable: false
-  use: valine # values: valine | gitalk | twikoo
+  enable: true
+  use: gitalk # values: valine | gitalk | twikoo
 
   # Valine
   # See: https://github.com/xCss/Valine
@@ -172,10 +172,10 @@ comment:
   # Gitalk
   # See: https://github.com/gitalk/gitalk
   gitalk:
-    github_id: # GitHub repo owner
-    repository: # Repository name to store issues
-    client_id: # GitHub Application Client ID
-    client_secret: # GitHub Application Client Secret
+    github_id: oimasterakioi # GitHub repo owner
+    repository: blog-comments # Repository name to store issues
+    client_id: 750922064dd4a8ea1824 # GitHub Application Client ID
+    client_secret: 7231d4989b9f4c31405f500a73714dcaa4e30ccb # GitHub Application Client Secret
 
   # Twikoo
   # See: https://github.com/imaegoo/twikoo

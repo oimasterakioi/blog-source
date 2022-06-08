@@ -44,9 +44,9 @@ style:
   # Scroll style settings
   scroll:
     progress_bar:
-      enable: false
+      enable: true
     percent:
-      enable: false
+      enable: true
 
 # ---------------------------------------------------------------------------------------
 # Social contact link

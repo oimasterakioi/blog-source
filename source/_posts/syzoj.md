@@ -484,12 +484,12 @@ vim /opt/syzoj/web/divine.json
 
 如果了解数据库，就知道显然是 `AUTO_INCREMENT` 的问题。
 
-假设你现在有效的题目 ID 为 $1 \sim n$，且你那些 10000 后面的题目不需要。
+假设你现在有效的题目 ID 为 1~n，且你那些 10000 后面的题目不需要。
 
 步骤：
 
 1. 使用 `delete` 命令批量删除，或者是手动在网页端一个一个删
-2. 在数据库中 `alter table problem AUTO_INCREMENT=xxx`，将 `xxx` 替换成 $n+1$。
+2. 在数据库中 `alter table problem AUTO_INCREMENT=xxx`，将 `xxx` 替换成 n+1。
 
 如果 10000 后面的题目有用，只是想要消除空档，那么请查看 [这个网站](https://www.baidu.com).
 

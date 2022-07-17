@@ -19,13 +19,13 @@ tags: Windows, 指南
 
 ## 下载文件
 
-请在[这里](https://www.disktool.cn/wintogo.html)下载并安装*口袋系统(WinToGo)*，这个软件目前没有广告和VIP行为，大家可以放心使用。
+请在 [这里](https://www.disktool.cn/wintogo.html) 下载并安装「口袋系统(WinToGo)」，这个软件目前没有广告和VIP行为，大家可以放心使用。
 
-接下来，请在[I Tell You](https://msdn.itellyou.cn/)左侧「操作系统」选择你需要的安装的系统。建议使用 Windows 10。Windows 7 因为驱动程序不兼容较新电脑，不建议使用。
+接下来，请在 [I Tell You](https://msdn.itellyou.cn/) 左侧「操作系统」选择你需要的安装的系统。建议使用 Windows 10。Windows 7 因为驱动程序不兼容较新电脑，不建议使用。
 
 ## 部署
 
-进入*口袋系统(WinToGo)*，在「目标设备」中选择「为 Windows 设备制作」。如果你是 Mac 电脑，请选择 「Mac」 选项。
+进入「口袋系统(WinToGo)」，在「目标设备」中选择「为 Windows 设备制作」。如果你是 Mac 电脑，请选择 「Mac」 选项。
 
 下一步，选择刚刚下载好的 Windows 镜像文件。然后选择对应制作的 USB 设备。
 
@@ -49,7 +49,7 @@ tags: Windows, 指南
 
 同时，因为读写量大，请使用一些物理措施降温。我本人使用的是一张沾了一点点冰水的纸贴在 USB 上（如果你的 USB 外壳不防水那就不要这样做）。
 
-安装你需要的软件，你的系统就做好了！从此，在任何设备上（Apple 的 Macbook 不一定行 :cry:），插上你的 U 盘，就可以使用你自己的系统了！
+安装你需要的软件，你的系统就做好了！从此，在任何设备上（Apple 的 Macbook 不一定行），插上你的 U 盘，就可以使用你自己的系统了！
 
 ## 禁用服务和一些启动项
 

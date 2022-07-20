@@ -8,4 +8,6 @@ tags:
 
 博客使用 GitHub Actions 进行自动上传。感谢 Keep 团队开发的自动程序。
 
+$\LaTeX$ 测试。
+
 如果博客有问题，可以发邮件到 oimasterfake@icloud.com，或者直接在博客下方评论。
